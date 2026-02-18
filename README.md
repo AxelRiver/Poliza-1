@@ -1,2 +1,2 @@
-# Poliza-1
+# Poliza
 Generador de polizas

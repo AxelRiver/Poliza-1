@@ -1,0 +1,54 @@
+{
+  "name": "Sistema Profesional de Pólizas 2025",
+  "short_name": "Pólizas 2025",
+  "description": "Emisión profesional de pólizas de seguros con almacenamiento en la nube y modo offline",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#003087",
+  "theme_color": "#003087",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "poli.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "poli.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
